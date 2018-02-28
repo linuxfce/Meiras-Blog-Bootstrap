@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+title:             Meiras Blog 2018
+email:             meiras.contact@gmail.com
+description:       A Blog Theme by L. Mig. T.
+author:            Meiras (fork from Bootstrap)
+baseurl:           "/Meiras-Blog-Bootstrap/"
+url:               "https://linuxfce.github.io/Meiras-Blog-Bootstrap/"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  @luis_linuxfce
+github_username:   linuxfce
+# facebook_username: 
 
 # Build settings
 markdown:          kramdown
