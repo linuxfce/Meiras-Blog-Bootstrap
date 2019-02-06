@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Theresa May dined with Presidents Club co-chair
-tags: [Jekill-Blog, random]
 comments: true
 ---
 
@@ -34,3 +33,31 @@ He was one of 48 benefactors who socialised with the prime minister between 1 Ap
 The identities of CLG members who dined with May have been uploaded to the Conservative party’s website.
 
 Since 2013, the party has provided a limited glimpse of its elite donor events by publishing a list of donor and cabinet minister attendees four times a year.
+The latest disclosure comes amid reports that Sir Mick Davis, a mining tycoon who is the Conservatives’ chief executive, has launched a push to boost party funds in case parliament or the prime minister call a snap election.
+
+It appears to confirm concerns among senior Tories that the party has become increasingly reliant on a small number of rich donors. Labour raised £16m in 2017 through membership subscriptions, while the Conservatives raised £835,000 from members.
+
+Benefactors from the energy sector who met May during the three-month period include Ian Taylor, the chair of the controversial oil firm Vitol, and Matthew Ferrey, a former senior executive at the same firm, as well as the Ukrainian-born energy tycoon Alexander Temerko.
+
+At least two of the donors who dined with May last spring have been associated with pro-Brexit campaigns. Hardy McLain, a retired hedge fund manager, attended dinners in 2017 and 2018 and previously donated £20,000 to the Vote Leave campaign. Sir Henry Angest, who has given more than £7m to the Tories through his firms, has also channeled money to pro-Brexit thinktanks.
+
+David Lilley, a major donor to Vote Leave, told the Observer last year it was vital that the no-deal Brexit option be left on the table: “Why would there be any motivation for the EU to give any deal concession if they know that we can’t walk away?” he said.
+
+The only woman on the list is Lubov Chernukhin, whose husband, Vladimir, is a Russian former deputy finance minister under President Vladimir Putin.
+
+A regular member of the CLG, she has given more than £600,000 to the Tories since 2012, including £160,000 to play tennis with Boris Johnson and £30,000 to dine with the defence secretary, Gavin Williamson.
+
+The investor Dominic Johnson, who previously attended two dinners with May in 2017, is the co-founder of Somerset Capital Management, an investment firm set up by himself and the Tory hard Brexiter Jacob Rees-Mogg.
+
+Somerset was last year reported to be warning its clients about “considerable uncertainty” as a result of Brexit, and set up a new fund in Ireland, which benefits from EU financial passporting rights.
+
+Other attendees include Vikrant Bhargava, who made a fortune from a 15% stake in PartyGaming, the company behind a popular poker website, and Simon Blagden, the former chair of the Jamie Oliver Restaurant Group.
+
+May brings cabinet members to each fundraising event. Between April and 30 June, she was joined by the chancellor, Philip Hammond, the environment secretary, Michael Gove, the then foreign secretary, Johnson, the education secretary, Damian Hinds, and the then sports minister, Tracey Crouch.
+
+The Guardian disclosed in July that members of the CLG gave £7m to the party over the nine months to April 2018.
+
+This is copy & paste from [The Guardian online updated on the 28-2-2019](https://tinyurl.com/y9xscqwm)
+
+#### Miguel
+
