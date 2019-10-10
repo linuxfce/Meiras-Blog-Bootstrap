@@ -2,7 +2,7 @@
 layout: post
 title: Theresa May dined with Presidents Club co-chair
 comments: true
-background: '/img/bg-post.jpg'
+background: '/img/posts/Theresa_May.jpg'
 ---
 
 ### Theresa May dined with Presidents Club co-chair after sleaze scandal
